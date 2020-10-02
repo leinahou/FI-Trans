@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FI Trans</string>
+    <string name="button_start">Process transaction</string>
+</resources>
